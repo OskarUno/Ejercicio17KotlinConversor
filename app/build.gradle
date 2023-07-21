@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.awakelab.oskar.ejercicio16kotlin'
+    namespace 'com.awakelab.oskar.ejercicio17kotlin'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.awakelab.oskar.ejercicio16kotlin"
+        applicationId "com.awakelab.oskar.ejercicio17kotlin"
         minSdk 24
         targetSdk 34
         versionCode 1

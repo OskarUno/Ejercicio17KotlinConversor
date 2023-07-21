@@ -1,4 +1,4 @@
-package com.awakelab.oskar.ejercicio16kotlin
+package com.awakelab.oskar.ejercicio17kotlin
 
 import org.junit.Test
 
